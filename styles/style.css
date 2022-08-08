@@ -68,14 +68,6 @@
   color: #2f80ed;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  padding-right: 0;
-  padding-top: 80px;
-}
-
 .description {
   padding-top: 100px;
   display: flex;
