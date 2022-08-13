@@ -160,7 +160,8 @@
 }
 
 div p:last-child {
-  padding-bottom: 0; }
+  padding-bottom: 0;
+}
 
 .table__heading {
   line-height: 1.15;
@@ -321,7 +322,6 @@ div p:last-child {
   margin: 0;
 }
 
-
 .footer__social-icon {
   height: 16px;
   width: 16px;
@@ -334,5 +334,4 @@ div p:last-child {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
- 
 }
